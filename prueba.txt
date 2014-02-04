@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-de nuevo
-=======
-probando
-editando desde el servidor
->>>>>>> 5ae9af8452709633519a1645746bfd2ba623c78e
+noquiero nada aqui
